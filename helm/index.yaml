@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  keepup:
+  - apiVersion: v2
+    created: "2025-02-04T11:36:33.433414855Z"
+    digest: e80ab8527c36a8f4f58187675f7654b95af9ae2369609744e5ac62bf6e311bf3
+    name: keepup
+    urls:
+    - https://raw.githubusercontent.com/s-skorobohatko/keepup/gh-pages/helm/keepup-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-02-04T11:36:33.432521422Z"
